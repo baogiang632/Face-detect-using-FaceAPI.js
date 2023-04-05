@@ -9,6 +9,7 @@ Promise.all([
 
 function startVideo() {
   video.src = 'video2.mp4' // change video name here
+  // hehe
 }
 
 function startVideoWebcam() {
